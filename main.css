@@ -1,0 +1,239 @@
+/* BASE */
+body {
+  background-color: black;
+  background-image: url("images/layout/background.jpg");
+  background-repeat: repeat; }
+
+h1, li, a, h1 a {
+  font-family: "blue_highwaylinocut";
+  color: black; }
+
+h2 {
+  font-family: "blue_highwaylinocut";
+  color: black;
+  font-size: 1.8em; }
+
+h3 {
+  font-family: "blue_highwaylinocut";
+  color: black; }
+
+h6 a {
+  color: black !important;
+  font-size: 2.1em; }
+
+h6 a:hover {
+  color: grey !important;
+  font-size: 2em; }
+
+ul {
+  list-style: none;
+  padding-left: 0px;
+  padding-right: 16px; }
+
+nav ul li {
+  display: inline; }
+
+li {
+  font-size: 2.3em;
+  margin-left: 20px; }
+
+img {
+  border: 6px black solid; }
+
+/* unvisited link */
+a:link {
+  text-decoration: none;
+  color: black; }
+
+/* visited link */
+a:visited {
+  text-decoration: none;
+  color: black; }
+
+/* mouse over link */
+a:hover {
+  text-decoration: none;
+  color: grey; }
+
+/* selected link */
+a:active {
+  text-decoration: none;
+  color: black; }
+
+/* FOOTER LINK STYLES */
+/* unvisited link */
+.footer-style a:link {
+  text-decoration: none;
+  color: black; }
+
+/* visited link */
+.footer-style a:visited {
+  text-decoration: none;
+  color: black; }
+
+/* mouse over link */
+.footer-style a:hover {
+  text-decoration: none;
+  color: grey; }
+
+/* selected link */
+.footer-style a:active {
+  text-decoration: none;
+  color: black; }
+
+/* LAYOUT */
+.align-center {
+  margin: auto;
+  text-align: center; }
+
+.footer-text {
+  font-size: 2em; }
+
+.footer-size {
+  font-size: 2em; }
+
+.white-background {
+  background-color: black;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 20px;
+  padding-bottom: 15px; }
+
+.main-text {
+  font-family: "blue_highwaylinocut";
+  font-size: 1.8em;
+  color: black; }
+
+.main-text-services {
+  font-family: "blue_highwaylinocut";
+  font-size: 2.4em !important;
+  color: black; }
+
+.main-nav-layout {
+  border: 2px solid black;
+  padding-top: 7px;
+  width: 85%; }
+
+.main-nav-style a {
+  font-size: 1em;
+  color: black !important; }
+
+.main-nav-style a:hover {
+  font-size: .9em;
+  color: grey !important; }
+
+.share-content-nav {
+  color: black;
+  font-family: "blue_highwaylinocut"; }
+
+.skill-layout {
+  margin-left: 4px; }
+
+.fixed-nav {
+  position: fixed;
+  float: left;
+  margin-top: 180px; }
+
+.skill-style {
+  font-family: sans-serif;
+  color: black;
+  font-size: 1.1em;
+  list-style: square; }
+
+.black-text {
+  color: black; }
+
+.white-text a {
+  color: black; }
+
+.white-text {
+  color: black; }
+
+.quote-text {
+  text-size: 5em !important; }
+
+.social-network-layout {
+  float: left; }
+
+.floated-left {
+  float: left; }
+
+.main-services p {
+  color: black;
+  font-size: 1.8em; }
+
+.services-header {
+  font-size: 3.5em; }
+
+.main-contact-style {
+  color: black !important;
+  font-size: 1.2em; }
+
+.main-contact-style:hover {
+  color: grey !important;
+  font-size: 1.1em; }
+
+.radio-listen h6 a {
+  color: black !important;
+  font-size: 2.1em; }
+
+.radio-listen h6 a:hover {
+  color: grey !important;
+  font-size: 2em; }
+
+.main-subpage-text {
+  font-size: 4em; }
+
+/* Mobile nav styles */
+.mobile-nav {
+  display: none; }
+
+/* Video EMBed responsive code */
+.responsive-vid {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 60px;
+  overflow: hidden; }
+
+.responsive-vid iframe,
+.responsive-vid object,
+.responsive-vid embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+/* END OF = Video EMBed responsive code */
+/* MODULE */
+/* STATE */
+/* THEME */
+/* FORM */
+input, textarea {
+  display: block;
+  margin-bottom: 15px;
+  width: 100%;
+  border: black solid 3px;
+  font-size: 2em;
+  color: black;
+  background-color: black;
+  font-family: "blue_highwaylinocut"; }
+
+label {
+  margin-bottom: 0px;
+  font-size: 1.5em;
+  color: black; }
+
+.error {
+  color: black; }
+
+form {
+  width: 100%; }
+
+.val-style {
+  text-align: center; }
+
+/* Smartphones (portrait and landscape) ----------- */
+@media (min-width: 0px) and (max-width: 620px) {
+  .footer-size {
+    font-size: 1.5em; } }
