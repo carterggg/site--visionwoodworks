@@ -254,6 +254,7 @@
 					<?php include('inc/form.php'); ?>
 				</div>
 				<div class="col-xs-12 col-sm-6">
+						<br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs">
 					<img src="images/layout/hireus.png" class="img-responsive align-center no-border">			
 				</div>
 				

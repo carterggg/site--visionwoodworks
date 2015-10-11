@@ -193,7 +193,7 @@ a:active {
 .fixed-nav {
 	position: fixed;
 	float: left;
-	margin-top: 150px;
+	margin-top: 90px;
 	
 }
 
@@ -375,4 +375,12 @@ form{
 	}
 	
 	
+	
 }
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media (min-width: 0px) and (max-width: 1300px) {
+
+  #links-designs a img {
+    width: 200px; } }

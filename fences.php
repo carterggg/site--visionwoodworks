@@ -136,16 +136,16 @@
 		
 			<nav class="fixed-nav">
 				<ul>
-					<li class="main-nav-style"><a href="about.html" title="carterguthrie.com home">ABOUT</a></li>
+					<li class="main-nav-style"><a href="about.php" title="carterguthrie.com home">ABOUT</a></li>
 					<br>
-					<li class="main-nav-style"><a href="decks.html" title="carterguthrie.com graphic design">DECKS</a></li> 				<br>
-					<li class="main-nav-style"><a href="fences.html" title="carterguthrie.com web design">FENCES</a></li>
+					<li class="main-nav-style"><a href="decks.php" title="carterguthrie.com graphic design">DECKS</a></li> 				<br>
+					<li class="main-nav-style"><a href="fences.php" title="carterguthrie.com web design">FENCES</a></li>
 					<br>
-					<li class="main-nav-style"><a href="arbors.html" title="carterguthrie.com photo and video">ARBORS</a></li>
+					<li class="main-nav-style"><a href="arbors.php" title="carterguthrie.com photo and video">ARBORS</a></li>
 					<br>
-					<li class="main-nav-style"><a href="hardscape.html" title="carterguthrie.com boltz on board">HARDSCAPE</a></li>
+					<li class="main-nav-style"><a href="hardscape.php" title="carterguthrie.com boltz on board">HARDSCAPE</a></li>
 					<br>
-					<li class="main-nav-style"><a href="interiorremodel.html" title="carterguthrie.com imminent radio">INTERIOR<br>&nbsp;&nbsp;REMODEL</a></li>
+					<li class="main-nav-style"><a href="interiorremodel.php" title="carterguthrie.com imminent radio">INTERIOR<br>&nbsp;&nbsp;REMODEL</a></li>
 					<br>
 					<li class="main-nav-style"><a href="contact.php" title="carterguthrie.com boltz on board">CONTACT</a></li>
 					
@@ -326,8 +326,6 @@
     							
 
    								
-
-    
 						</div><!--END OF Links -->
 					</div>
 				</div>
@@ -402,7 +400,7 @@
 					
 			
 			</div>
-		</div>		
+		
 			
 					
 
@@ -418,6 +416,7 @@
 					<?php include('inc/form.php'); ?>
 				</div>
 				<div class="col-xs-12 col-sm-6">
+						<br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs">
 					<img src="images/layout/hireus.png" class="img-responsive align-center no-border">			
 				</div>
 				

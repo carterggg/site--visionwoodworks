@@ -144,7 +144,7 @@ a:active {
 .fixed-nav {
   position: fixed;
   float: left;
-  margin-top: 150px; }
+  margin-top: 90px; }
 
 .skill-style {
   font-family: sans-serif;
@@ -277,3 +277,7 @@ form {
 @media (min-width: 0px) and (max-width: 620px) {
   .footer-size {
     font-size: 1.5em; } }
+/* Smartphones (portrait and landscape) ----------- */
+@media (min-width: 0px) and (max-width: 1300px) {
+  #links-designs a img {
+    width: 200px; } }

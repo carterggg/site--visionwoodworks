@@ -128,36 +128,40 @@
 			
 			
 			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
-					<a href="aboutme.html" alt="Carter Guthrie graphic design"><img src="images/layout/about.jpg" onmouseover="this.src='images/layout/about.jpg'" onmouseout="this.src='images/layout/about.jpg'"  title="Carter Guthrie Graphic Design" class="img-responsive align-center"></a>
-				<h1 class="align-center footer-style"><a href="about.html" title="Carter Guthrie Graphic Design" target="_blank">ABOUT</a></h1>
+			
+				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+					<a href="aboutme.html" alt="Vision Woodworks: About"><img src="images/layout/about.jpg" onmouseover="this.src='images/layout/about.jpg'" onmouseout="this.src='images/layout/about.jpg'"  title="Vision Woodworks: About" class="img-responsive align-center"></a>
+				<h1 class="align-center footer-style"><a href="about.html" title="Vision Woodworks: About">ABOUT</a></h1>
 					
 				</div>
-				<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
-					<a href="decks.html" alt="Carter Guthrie web design"><img src="images/layout/decks.jpg" onmouseover="this.src='images/layout/decks.jpg'" onmouseout="this.src='images/layout/decks.jpg'"  title="" class="img-responsive align-center"></a>
-					<h1 class="align-center footer-style"><a href="decks.html" title="Carter Guthrie Web Design" target="_blank">DECK</a></h1>
+				
+				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+					<a href="decks.html" alt="Vision Woodworks: Decks"><img src="images/layout/decks.jpg" onmouseover="this.src='images/layout/decks.jpg'" onmouseout="this.src='images/layout/decks.jpg'"  title="Vision Woodworks: Decks" class="img-responsive align-center"></a>
+					<h1 class="align-center footer-style"><a href="decks.html" title="Vision Woodworks: Decks">DECK</a></h1>
 				</div>
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
-									<a href="fences.html" alt="Carter Guthrie photovideo"><img src="images/layout/fences.jpg" onmouseover="this.src='images/layout/fences.jpg'" onmouseout="this.src='images/layout/fences.jpg'"  title="Carter Guthrie" class="img-responsive align-center"></a>
-				<h1 class="align-center footer-style"><a href="fences.html" title="About Carter Guthrie">FENCES</a></h1>
+				
+				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+									<a href="fences.html" alt="Vision Woodworks: Fences"><img src="images/layout/fences.jpg" onmouseover="this.src='images/layout/fences.jpg'" onmouseout="this.src='images/layout/fences.jpg'"  title="Vision Woodworks: Fences" class="img-responsive align-center"></a>
+				<h1 class="align-center footer-style"><a href="fences.html" title="Vision Woodworks: Fences">FENCES</a></h1>
 					
 				</div>
+				
 			</div>
 			
 			
 			
 			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
-					<a href="arbors.html" alt="carter guthrie boltz on board"><img src="images/layout/arbors.jpg" onmouseover="this.src='images/layout/arbors.jpg'" onmouseout="this.src='images/layout/arbors.jpg'"  title="" class="img-responsive align-center"></a>
-					<h1 class="align-center footer-style"><a href="arbors.html" title="Carter Guthrie Boltz on Board">ARBORS</a></h1>
+				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+					<a href="arbors.html" alt="Vision Woodworks: Arbors"><img src="images/layout/arbors.jpg" onmouseover="this.src='images/layout/arbors.jpg'" onmouseout="this.src='images/layout/arbors.jpg'"  title="Vision Woodworks: Arbors" class="img-responsive align-center"></a>
+					<h1 class="align-center footer-style"><a href="arbors.html" title="Vision Woodworks: Arbors">ARBORS</a></h1>
 				</div>
-				<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
-					<a href="hardscape.html" alt="carter guthrie boltz on music"><img src="images/layout/hardscape.jpg" onmouseover="this.src='images/layout/hardscape.jpg'" onmouseout="this.src='images/layout/hardscape.jpg'"  title="" class="img-responsive align-center"></a>
-					<h1 class="align-center footer-style"><a href="hardscape.html" title="Carter Guthrie Imminent Radio">HARDSCAPE</a></h1>					
+				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+					<a href="hardscape.html" alt="Vision Woodworks: Arbors"><img src="images/layout/hardscape.jpg" onmouseover="this.src='images/layout/hardscape.jpg'" onmouseout="this.src='images/layout/hardscape.jpg'"  title="Vision Woodworks: Arbors" class="img-responsive align-center"></a>
+					<h1 class="align-center footer-style"><a href="hardscape.html" title="Vision Woodworks: Arbors">HARDSCAPE</a></h1>					
 				</div>
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
-					<a href="interiorremodel.html" alt="Carter Guthrie etc"><img src="images/layout/interiorremodel.jpg" onmouseover="this.src='images/layout/interiorremodel.jpg'" onmouseout="this.src='images/layout/interiorremodel.jpg'"  title="Carter Guthrie" class="img-responsive align-center"></a>
-				<h1 class="align-center footer-style"><a href="interiorremodel.html" title="About Carter Guthrie">INTERIOR REMODEL</a></h1>
+				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+					<a href="interiorremodel.html" alt="Vision Woodworks: Interior Remodeling"><img src="images/layout/interiorremodel.jpg" onmouseover="this.src='images/layout/interiorremodel.jpg'" onmouseout="this.src='images/layout/interiorremodel.jpg'"  title="Vision Woodworks: Interior Remodeling" class="img-responsive align-center"></a>
+				<h1 class="align-center footer-style"><a href="interiorremodel.html" title="Vision Woodworks: Interior Remodeling">INTERIOR REMODEL</a></h1>
 				</div>
 			</div>				
 					
@@ -174,6 +178,7 @@
 					<?php include('inc/form.php'); ?>
 				</div>
 				<div class="col-xs-12 col-sm-6">
+					<br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs">
 					<img src="images/layout/hireus.png" class="img-responsive align-center no-border">			
 								
 									
