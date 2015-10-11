@@ -21,7 +21,7 @@
 <meta name="keywords" content=""/>
 <meta name="author" content="Carter Guthrie carterguthrie.com">
 
-<title>Vision Woodworks</title>
+<title>Vision Woodworks | Interior Remodel</title>
 <link rel="stylesheet" href="styles/css/bootstrap.min.css">
 <link rel="stylesheet" href="styles/css/bootstrap-theme.min.css">
 <link rel="stylesheet" href="main.css">
@@ -82,24 +82,24 @@
   	  	
    				<nav class="mobile-nav toggle-info">
    					<ul> <br><br><br>
-   						<li class="main-nav-style mobile-main-nav"><a href="index.html" title="carterguthrie.com home">HOME</a></li>
+   						<li class="main-nav-style mobile-main-nav"><a href="index.php" title="carterguthrie.com home">HOME</a></li>
 					<br>
 					
-					<li class="main-nav-style mobile-main-nav"><a href="about.html" title="carterguthrie.com graphic design">ABOUT</a></li> 
+					<li class="main-nav-style mobile-main-nav"><a href="about.php" title="carterguthrie.com graphic design">ABOUT</a></li> 
 									<br>
-					<li class="main-nav-style mobile-main-nav"><a href="decks.html" title="carterguthrie.com web design">DECKS</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="decks.php" title="carterguthrie.com web design">DECKS</a></li>
 					
 					<br>
-					<li class="main-nav-style mobile-main-nav"><a href="fences.html" title="carterguthrie.com photo and video">FENCES</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="fences.php" title="carterguthrie.com photo and video">FENCES</a></li>
 					
 					<br>
-					<li class="main-nav-style mobile-main-nav"><a href="arbors.html" title="carterguthrie.com boltz on board">ARBORS</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="arbors.php" title="carterguthrie.com boltz on board">ARBORS</a></li>
 					
 					<br>
-					<li class="main-nav-style mobile-main-nav"><a href="hardscape.html" title="carterguthrie.com imminent radio">HARDSCAPE</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="hardscape.php" title="carterguthrie.com imminent radio">HARDSCAPE</a></li>
 					
 					<br>
-					<li class="main-nav-style mobile-main-nav"><a href="interiorremodel.html" title="carterguthrie.com etc designs">INTERIOR REMODEL</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="interiorremodel.php" title="carterguthrie.com etc designs">INTERIOR REMODEL</a></li>
 					
 					<br><br>
 					<li class="main-nav-style mobile-main-nav"><a href="contact.php" title="carterguthrie.com about">CONTACT</a></li>
@@ -122,6 +122,7 @@
 		
 		<div class="col-xs-12 col-sm-2">
 			<h2><a href="contact.php" title="Get A Quote">GET A QUOTE</a></h2>
+			<img src="images/layout/hammertime.gif" alt="Get A Quote" class="img-responsive no-border align-center" width="100px">
 		</div>
 	</div>		
 
@@ -134,16 +135,16 @@
 		
 			<nav class="fixed-nav">
 				<ul>
-					<li class="main-nav-style"><a href="about.html" title="carterguthrie.com home">ABOUT</a></li>
+					<li class="main-nav-style"><a href="about.php" title="carterguthrie.com home">ABOUT</a></li>
 					<br>
-					<li class="main-nav-style"><a href="decks.html" title="carterguthrie.com graphic design">DECKS</a></li> 				<br>
-					<li class="main-nav-style"><a href="fences.html" title="carterguthrie.com web design">FENCES</a></li>
+					<li class="main-nav-style"><a href="decks.php" title="carterguthrie.com graphic design">DECKS</a></li> 				<br>
+					<li class="main-nav-style"><a href="fences.php" title="carterguthrie.com web design">FENCES</a></li>
 					<br>
-					<li class="main-nav-style"><a href="arbors.html" title="carterguthrie.com photo and video">ARBORS</a></li>
+					<li class="main-nav-style"><a href="arbors.php" title="carterguthrie.com photo and video">ARBORS</a></li>
 					<br>
-					<li class="main-nav-style"><a href="hardscape.html" title="carterguthrie.com boltz on board">HARDSCAPE</a></li>
+					<li class="main-nav-style"><a href="hardscape.php" title="carterguthrie.com boltz on board">HARDSCAPE</a></li>
 					<br>
-					<li class="main-nav-style"><a href="interiorremodel.html" title="carterguthrie.com imminent radio">INTERIOR<br>&nbsp;&nbsp;REMODEL</a></li>
+					<li class="main-nav-style"><a href="interiorremodel.php" title="carterguthrie.com imminent radio">INTERIOR<br>&nbsp;&nbsp;REMODEL</a></li>
 					<br>
 					<li class="main-nav-style"><a href="contact.php" title="carterguthrie.com boltz on board">CONTACT</a></li>
 					
@@ -163,29 +164,72 @@
 					  <br>
 				<a href="index.html" title="Vision Woodworks"><img src="images/layout/logo.jpg" alt="Vision Woodworks" class="img-responsive align-center" width="400px"></a>
 				<br class="hidden-xs"><br class="hidden-sm hidden-md hidden-lg"><br>
-				<h1 class="align-center">DECK WORK</h1>
+				<h1 class="align-center">INTERIOR REMODEL WORK</h1>
 			
 	<!-- Gallery -->			
 				<div class="row">
 					<div class="col-xs-12">
 						<div id="links-designs">
 						
-							<a href="images/decks/deck1.jpg" title="Vision Woodworks" data-gallery><img src="images/decks/deck1.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    							
-    						<a href="images/decks/deck2.jpg" title="Vision Woodworks" data-gallery><img src="images/decks/deck2.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-   								
-   							<a href="images/decks/deck3.jpg" title="Vision Woodworks" data-gallery><img src="images/decks/deck3.jpg" width="325" alt="Vision Woodworks" class="no-border">
+							<a href="images/remodel/remodel1.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel1.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
     						
     						
-   								
-   							<a href="images/decks/deck4.jpg" title="Vision Woodworks" data-gallery><img src="images/decks/deck4.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>			
-    								
-    						<a href="images/decks/deck5.jpg" title="Vision Woodworks" data-gallery><img src="images/decks/deck5.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>	
+    						
+    						<a href="images/remodel/remodel9.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel9.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel3.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel3.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel4.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel4.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel5.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel5.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel6.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel6.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel7.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel7.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel8.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel8.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						
+    						
+    						<a href="images/remodel/remodel10.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel10.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						
+    						
+    						<a href="images/remodel/remodel16.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel16.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel12.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel12.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel13.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel13.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel14.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel14.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel15.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel15.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						
+    						
+    						<a href="images/remodel/remodel17.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel17.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel2.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel2.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel11.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel11.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+	
     							
 
    								

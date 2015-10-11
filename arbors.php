@@ -21,7 +21,7 @@
 <meta name="keywords" content=""/>
 <meta name="author" content="Carter Guthrie carterguthrie.com">
 
-<title>Vision Woodworks</title>
+<title>Vision Woodworks | Arbors</title>
 <link rel="stylesheet" href="styles/css/bootstrap.min.css">
 <link rel="stylesheet" href="styles/css/bootstrap-theme.min.css">
 <link rel="stylesheet" href="main.css">
@@ -163,37 +163,24 @@
 					  <br>
 				<a href="index.html" title="Vision Woodworks"><img src="images/layout/logo.jpg" alt="Vision Woodworks" class="img-responsive align-center" width="400px"></a>
 				<br class="hidden-xs"><br class="hidden-sm hidden-md hidden-lg"><br>
-				<h1 class="align-center">HARDSCAPE WORK</h1>
+				<h1 class="align-center">ARBORS, TRELLIS, PERGOLAS WORK</h1>
 			
 	<!-- Gallery -->			
 				<div class="row">
 					<div class="col-xs-12">
 						<div id="links-designs">
 						
-							
-    						
-    						<a href="images/hardscape/hardscape2.jpg" title="Vision Woodworks" data-gallery><img src="images/hardscape/hardscape2.jpg" width="325" alt="Vision Woodworks" class="no-border">
+							<a href="images/arbors/arbors1.jpg" title="Vision Woodworks" data-gallery><img src="images/arbors/arbors1.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
-    						
-    						<a href="images/hardscape/hardscape3.jpg" title="Vision Woodworks" data-gallery><img src="images/hardscape/hardscape3.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						<a href="images/arbors/arbors2.jpg" title="Vision Woodworks" data-gallery><img src="images/arbors/arbors2.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
-    						
-    						<a href="images/hardscape/hardscape4.jpg" title="Vision Woodworks" data-gallery><img src="images/hardscape/hardscape4.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						<a href="images/arbors/arbors3.jpg" title="Vision Woodworks" data-gallery><img src="images/arbors/arbors3.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
-    						
-    						<a href="images/hardscape/hardscape5.jpg" title="Vision Woodworks" data-gallery><img src="images/hardscape/hardscape5.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						<a href="images/arbors/arbors4.jpg" title="Vision Woodworks" data-gallery><img src="images/arbors/arbors4.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
-    						
-    						<a href="images/hardscape/hardscape6.jpg" title="Vision Woodworks" data-gallery><img src="images/hardscape/hardscape6.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						<a href="images/arbors/arbors5.jpg" title="Vision Woodworks" data-gallery><img src="images/arbors/arbors5.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
-    						
-    						<a href="images/hardscape/hardscape7.jpg" title="Vision Woodworks" data-gallery><img src="images/hardscape/hardscape7.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/hardscape/hardscape8.png" title="Vision Woodworks" data-gallery><img src="images/hardscape/hardscape8.png" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/hardscape/hardscape1.jpg" title="Vision Woodworks" data-gallery><img src="images/hardscape/hardscape1.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						<a href="images/arbors/arbors6.jpg" title="Vision Woodworks" data-gallery><img src="images/arbors/arbors6.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
 	
     							

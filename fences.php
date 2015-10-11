@@ -21,7 +21,7 @@
 <meta name="keywords" content=""/>
 <meta name="author" content="Carter Guthrie carterguthrie.com">
 
-<title>Vision Woodworks</title>
+<title>Vision Woodworks | Fences</title>
 <link rel="stylesheet" href="styles/css/bootstrap.min.css">
 <link rel="stylesheet" href="styles/css/bootstrap-theme.min.css">
 <link rel="stylesheet" href="main.css">
@@ -82,24 +82,24 @@
   	  	
    				<nav class="mobile-nav toggle-info">
    					<ul> <br><br><br>
-   						<li class="main-nav-style mobile-main-nav"><a href="index.html" title="carterguthrie.com home">HOME</a></li>
+   						<li class="main-nav-style mobile-main-nav"><a href="index.php" title="carterguthrie.com home">HOME</a></li>
 					<br>
 					
-					<li class="main-nav-style mobile-main-nav"><a href="about.html" title="carterguthrie.com graphic design">ABOUT</a></li> 
+					<li class="main-nav-style mobile-main-nav"><a href="about.php" title="carterguthrie.com graphic design">ABOUT</a></li> 
 									<br>
-					<li class="main-nav-style mobile-main-nav"><a href="decks.html" title="carterguthrie.com web design">DECKS</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="decks.php" title="carterguthrie.com web design">DECKS</a></li>
 					
 					<br>
-					<li class="main-nav-style mobile-main-nav"><a href="fences.html" title="carterguthrie.com photo and video">FENCES</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="fences.php" title="carterguthrie.com photo and video">FENCES</a></li>
 					
 					<br>
-					<li class="main-nav-style mobile-main-nav"><a href="arbors.html" title="carterguthrie.com boltz on board">ARBORS</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="arbors.php" title="carterguthrie.com boltz on board">ARBORS</a></li>
 					
 					<br>
-					<li class="main-nav-style mobile-main-nav"><a href="hardscape.html" title="carterguthrie.com imminent radio">HARDSCAPE</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="hardscape.php" title="carterguthrie.com imminent radio">HARDSCAPE</a></li>
 					
 					<br>
-					<li class="main-nav-style mobile-main-nav"><a href="interiorremodel.html" title="carterguthrie.com etc designs">INTERIOR REMODEL</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="interiorremodel.php" title="carterguthrie.com etc designs">INTERIOR REMODEL</a></li>
 					
 					<br><br>
 					<li class="main-nav-style mobile-main-nav"><a href="contact.php" title="carterguthrie.com about">CONTACT</a></li>
@@ -123,6 +123,7 @@
 		
 		<div class="col-xs-12 col-sm-2">
 			<h2><a href="contact.php" title="Get A Quote">GET A QUOTE</a></h2>
+			<img src="images/layout/hammertime.gif" alt="Get A Quote" class="img-responsive no-border align-center" width="100px">
 		</div>
 	</div>		
 
