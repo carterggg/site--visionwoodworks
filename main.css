@@ -255,16 +255,17 @@ input, textarea {
   border: black solid 3px;
   font-size: 2em;
   color: black;
-  background-color: black;
+  background-color: white;
   font-family: "blue_highwaylinocut"; }
 
 label {
   margin-bottom: 0px;
   font-size: 1.5em;
-  color: black; }
+  color: white;
+  text-shadow: 2px 3px black; }
 
 .error {
-  color: black; }
+  color: #F47503; }
 
 form {
   width: 100%; }

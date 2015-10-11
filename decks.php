@@ -112,7 +112,7 @@
 	
 
 
-	<div class="row">
+	<div class="row hidden-xs">
 		<div class="col-xs-12 col-sm-2">
 		  <br>	
 			<a href="https://www.thumbtack.com/nc/matthews/yard-fencing-companies/" id="thumbtack-medallion" target="_blank"><img src="https://static.thumbtack.com/media/widgets/featured-pro.png" alt="Thumbtack Best Pro of 2015" class="no-border"></a><script src="https://static.thumbtack.com/media/widgets/medallion-links.js"></script>
@@ -135,23 +135,23 @@
 		
 			<nav class="fixed-nav">
 				<ul>
-					<li class="main-nav-style"><a href="about.html" title="carterguthrie.com home">ABOUT</a></li>
+					<li class="main-nav-style"><a href="about.php" title="carterguthrie.com home">ABOUT</a></li>
 					<br>
-					<li class="main-nav-style"><a href="decks.html" title="carterguthrie.com graphic design">DECKS</a></li> 				<br>
-					<li class="main-nav-style"><a href="fences.html" title="carterguthrie.com web design">FENCES</a></li>
+					<li class="main-nav-style"><a href="decks.php" title="carterguthrie.com graphic design">DECKS</a></li> 				<br>
+					<li class="main-nav-style"><a href="fences.php" title="carterguthrie.com web design">FENCES</a></li>
 					<br>
-					<li class="main-nav-style"><a href="arbors.html" title="carterguthrie.com photo and video">ARBORS</a></li>
+					<li class="main-nav-style"><a href="arbors.php" title="carterguthrie.com photo and video">ARBORS</a></li>
 					<br>
-					<li class="main-nav-style"><a href="hardscape.html" title="carterguthrie.com boltz on board">HARDSCAPE</a></li>
+					<li class="main-nav-style"><a href="hardscape.php" title="carterguthrie.com boltz on board">HARDSCAPE</a></li>
 					<br>
-					<li class="main-nav-style"><a href="interiorremodel.html" title="carterguthrie.com imminent radio">INTERIOR<br>&nbsp;&nbsp;REMODEL</a></li>
+					<li class="main-nav-style"><a href="interiorremodel.php" title="carterguthrie.com imminent radio">INTERIOR<br>&nbsp;&nbsp;REMODEL</a></li>
 					<br>
 					<li class="main-nav-style"><a href="contact.php" title="carterguthrie.com boltz on board">CONTACT</a></li>
 					
 
 				</ul>
 						  		
-					<a href="https://www.facebook.com/carterthedesigner" title="carter guthrie facebook" target="_blank"><img src="images/layout/fb2.png" onmouseover="this.src='images/layout/fb.png'" onmouseout="this.src='images/layout/fb2.png'" alt="Facebook: Carter Guthrie" width="40px" class="img-responsive align-center floated-left move"></a>
+					<a href="https://www.facebook.com/Vision-Wood-Works-264967386890020/timeline/" title="Facebook Vision Woodworks" target="_blank"><img src="images/layout/fb2.png" onmouseover="this.src='images/layout/fb.png'" onmouseout="this.src='images/layout/fb2.png'" alt="Facebook Vision Woodworks" width="40px" class="img-responsive align-center floated-left move"></a>
 			</nav>
 		<br><br><br>
 		</div>
@@ -162,7 +162,7 @@
 		<div class="col-xs-12 col-sm-12 col-md-9">
 			<!-- Header -->
 					  <br>
-				<a href="index.html" title="Vision Woodworks"><img src="images/layout/logo.jpg" alt="Vision Woodworks" class="img-responsive align-center" width="400px"></a>
+				<a href="index.php" title="Vision Woodworks"><img src="images/layout/logo.jpg" alt="Vision Woodworks" class="img-responsive align-center" width="400px"></a>
 				<br class="hidden-xs"><br class="hidden-sm hidden-md hidden-lg"><br>
 				<h1 class="align-center">DECK WORK</h1>
 			

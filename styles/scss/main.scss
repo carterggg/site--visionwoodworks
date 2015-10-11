@@ -340,20 +340,23 @@ input,textarea {
 	width: 100%;
 	border: black solid 3px;
 	font-size:2em;
-	color: $main-color;
-	background-color: $main-color;
+	color: black;
+	background-color: white;
 	font-family: $main-font;
 }
 
 label {
 	margin-bottom: 0px;
 	font-size: 1.5em;
-	color: $main-color;
+	color: white;
+	text-shadow: 2px 3px black;
 }
 
 .error{
-	color:$main-color;
+	color:#F47503 ;
 }
+
+	
 
 form{
 	width:100%;

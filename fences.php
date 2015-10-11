@@ -112,7 +112,7 @@
 	
 
 
-	<div class="row">
+	<div class="row hidden-xs">
 	
 		<div class="col-xs-12 col-sm-2">
 		  <br>	
@@ -152,7 +152,7 @@
 
 				</ul>
 						  		
-					<a href="https://www.facebook.com/carterthedesigner" title="carter guthrie facebook" target="_blank"><img src="images/layout/fb2.png" onmouseover="this.src='images/layout/fb.png'" onmouseout="this.src='images/layout/fb2.png'" alt="Facebook: Carter Guthrie" width="40px" class="img-responsive align-center floated-left move"></a>
+					<a href="https://www.facebook.com/Vision-Wood-Works-264967386890020/timeline/" title="Facebook Vision Woodworks" target="_blank"><img src="images/layout/fb2.png" onmouseover="this.src='images/layout/fb.png'" onmouseout="this.src='images/layout/fb2.png'" alt="Facebook Vision Woodworks" width="40px" class="img-responsive align-center floated-left move"></a>
 			</nav>
 		<br><br><br>
 		</div>
@@ -163,7 +163,7 @@
 		<div class="col-xs-12 col-sm-12 col-md-9">
 			<!-- Header -->
 					  <br>
-				<a href="index.html" title="Vision Woodworks"><img src="images/layout/logo.jpg" alt="Vision Woodworks" class="img-responsive align-center" width="400px"></a>
+				<a href="index.php" title="Vision Woodworks"><img src="images/layout/logo.jpg" alt="Vision Woodworks" class="img-responsive align-center" width="400px"></a>
 				<br class="hidden-xs"><br class="hidden-sm hidden-md hidden-lg"><br>
 				<h1 class="align-center">FENCE WORK</h1>
 			
