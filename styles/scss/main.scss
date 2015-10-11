@@ -10,17 +10,18 @@ $main-font: 'blue_highwaylinocut';
 body {
 	background-color: $main-color;
 	  background-image: url("images/layout/background.jpg");
-  	  background-repeat: repeat;
-
+  	  background-repeat: none;
+		background-size: contain;
 }
 
 h1, li, a, h1 a {
 	font-family: $main-font;
-	color: $main-color;
+	color: white;
+	text-shadow: 3px 4px black;
 }
 
 h2 {
-	font-family: $main-font;
+	font-family: $main-font !important;
 	color: $main-color;
 	font-size: 1.8em;
 }
@@ -96,25 +97,26 @@ a:active {
 /* unvisited link */
 .footer-style a:link {
 	text-decoration: none;
-	color:$main-color;
+	color: white;
+	text-shadow: 3px 4px black;
 }
 
 /* visited link */
 .footer-style a:visited {
 	text-decoration: none;
-	color:$main-color;
+	color: white;
 }
 
 /* mouse over link */
 .footer-style a:hover {
 	text-decoration:none;
-	color: grey;
+	color: #F47503;
 }
 
 /* selected link */
 .footer-style a:active { 
 	text-decoration: none;
-	color:$main-color;
+	color: white;
 }
 
 
@@ -161,12 +163,13 @@ a:active {
 
 .main-nav-style a {
 	font-size: 1em;
-	color: $main-color !important;
+	color: white !important;
+	text-shadow: 3px 4px black;
 }
 
 .main-nav-style a:hover {
 	font-size: .9em;
-	color: grey !important;
+	color: #F47503 !important;
 }
 
 .share-content-nav {
@@ -181,7 +184,7 @@ a:active {
 .fixed-nav {
 	position: fixed;
 	float: left;
-	margin-top: 180px;
+	margin-top: 150px;
 	
 }
 
@@ -251,12 +254,28 @@ a:active {
 	font-size: 4em;
 }
 
+#links-designs {
+  margin-top: 20px;
+  margin-left: 0px;
+  padding-left: 25px;
+  padding-top: 3px;
+  width: 100%; }
+
+.no-border {
+	border: none !important;
+}
+
+.move {
+	margin-left: 21px;
+}
 
 
 /* Mobile nav styles */
 .mobile-nav {
   display: none; 
 }
+
+
 
 
 

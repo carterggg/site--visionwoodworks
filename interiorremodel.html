@@ -26,10 +26,50 @@
 <link rel="stylesheet" href="styles/css/bootstrap-theme.min.css">
 <link rel="stylesheet" href="main.css">
 <link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8" />
+<!-- LIGHTBOX links -->
+<link rel="stylesheet" href="styles/css/blueimp-gallery.css">
+<link rel="stylesheet" href="styles/css/bootstrap-image-gallery.css">
+<!-- END OF LIGHTBOX links -->
 
 </head>
 
 <body>
+<!-- LIGHTBOX controls -->
+<div id="blueimp-gallery" class="blueimp-gallery">
+    <!-- The container for the modal slides -->
+    <div class="slides"></div>
+    <!-- Controls for the borderless lightbox -->
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+    <!-- The modal dialog, which will be used to wrap the lightbox content -->
+    <div class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title"></h4>
+                </div>
+                <div class="modal-body next"></div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default pull-left prev">
+                        <i class="glyphicon glyphicon-chevron-left"></i>
+                     
+                    </button>
+                    <button type="button" class="btn btn-primary next">
+                        
+                        <i class="glyphicon glyphicon-chevron-right"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END OF LIGHTBOX controls -->
+
 <!-- Website content -->
 
 <div class="container-fluid">
@@ -123,42 +163,82 @@
 					  <br>
 				<a href="index.html" title="Vision Woodworks"><img src="images/layout/logo.jpg" alt="Vision Woodworks" class="img-responsive align-center" width="400px"></a>
 				<br class="hidden-xs"><br class="hidden-sm hidden-md hidden-lg"><br>
+				<h1 class="align-center">INTERIOR REMODEL WORK</h1>
+			
+	<!-- Gallery -->			
+				<div class="row">
+					<div class="col-xs-12">
+						<div id="links-designs">
+						
+							<a href="images/remodel/remodel1.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel1.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						
+    						
+    						<a href="images/remodel/remodel9.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel9.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel3.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel3.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel4.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel4.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel5.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel5.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel6.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel6.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel7.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel7.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel8.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel8.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						
+    						
+    						<a href="images/remodel/remodel10.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel10.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						
+    						
+    						<a href="images/remodel/remodel16.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel16.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel12.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel12.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel13.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel13.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel14.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel14.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel15.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel15.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						
+    						
+    						<a href="images/remodel/remodel17.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel17.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel2.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel2.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/remodel/remodel11.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel11.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+	
+    							
+
+   								
+
+    
+						</div><!--END OF Links -->
+					</div>
+				</div>
 			
 			
-			
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
-					<a href="aboutme.html" alt="Carter Guthrie graphic design"><img src="images/layout/about.jpg" onmouseover="this.src='images/layout/about.jpg'" onmouseout="this.src='images/layout/about.jpg'"  title="Carter Guthrie Graphic Design" class="img-responsive align-center"></a>
-				<h1 class="align-center footer-style"><a href="about.html" title="Carter Guthrie Graphic Design" target="_blank">ABOUT</a></h1>
-					
-				</div>
-				<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
-					<a href="decks.html" alt="Carter Guthrie web design"><img src="images/layout/decks.jpg" onmouseover="this.src='images/layout/decks.jpg'" onmouseout="this.src='images/layout/decks.jpg'"  title="" class="img-responsive align-center"></a>
-					<h1 class="align-center footer-style"><a href="decks.html" title="Carter Guthrie Web Design" target="_blank">DECK</a></h1>
-				</div>
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
-									<a href="fences.html" alt="Carter Guthrie photovideo"><img src="images/layout/fences.jpg" onmouseover="this.src='images/layout/fences.jpg'" onmouseout="this.src='images/layout/fences.jpg'"  title="Carter Guthrie" class="img-responsive align-center"></a>
-				<h1 class="align-center footer-style"><a href="fences.html" title="About Carter Guthrie">FENCES</a></h1>
-					
-				</div>
-			</div>
-			
-			
-			
-			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
-					<a href="arbors.html" alt="carter guthrie boltz on board"><img src="images/layout/arbors.jpg" onmouseover="this.src='images/layout/arbors.jpg'" onmouseout="this.src='images/layout/arbors.jpg'"  title="" class="img-responsive align-center"></a>
-					<h1 class="align-center footer-style"><a href="arbors.html" title="Carter Guthrie Boltz on Board">ARBORS</a></h1>
-				</div>
-				<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
-					<a href="hardscape.html" alt="carter guthrie boltz on music"><img src="images/layout/hardscape.jpg" onmouseover="this.src='images/layout/hardscape.jpg'" onmouseout="this.src='images/layout/hardscape.jpg'"  title="" class="img-responsive align-center"></a>
-					<h1 class="align-center footer-style"><a href="hardscape.html" title="Carter Guthrie Imminent Radio">HARDSCAPE</a></h1>					
-				</div>
-				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
-					<a href="interiorremodel.html" alt="Carter Guthrie etc"><img src="images/layout/interiorremodel.jpg" onmouseover="this.src='images/layout/interiorremodel.jpg'" onmouseout="this.src='images/layout/interiorremodel.jpg'"  title="Carter Guthrie" class="img-responsive align-center"></a>
-				<h1 class="align-center footer-style"><a href="interiorremodel.html" title="About Carter Guthrie">INTERIOR REMODEL</a></h1>
-				</div>
-			</div>				
 					
 
 <!-- Services -->
@@ -174,8 +254,6 @@
 				</div>
 				<div class="col-xs-12 col-sm-6">
 					<img src="images/layout/hireus.png" class="img-responsive align-center no-border">			
-								
-									
 				</div>
 				
 			</div>
@@ -213,6 +291,10 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> 
 <script src="js/main.js"></script>
 <script src="js/bootstrap.min.js"></script>
+
+
+	<script src="http://blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
+	<script src="js/bootstrap-image-gallery.js"></script>   
     
     
 </body>

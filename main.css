@@ -2,14 +2,16 @@
 body {
   background-color: black;
   background-image: url("images/layout/background.jpg");
-  background-repeat: repeat; }
+  background-repeat: none;
+  background-size: contain; }
 
 h1, li, a, h1 a {
   font-family: "blue_highwaylinocut";
-  color: black; }
+  color: white;
+  text-shadow: 3px 4px black; }
 
 h2 {
-  font-family: "blue_highwaylinocut";
+  font-family: "blue_highwaylinocut" !important;
   color: black;
   font-size: 1.8em; }
 
@@ -64,22 +66,23 @@ a:active {
 /* unvisited link */
 .footer-style a:link {
   text-decoration: none;
-  color: black; }
+  color: white;
+  text-shadow: 3px 4px black; }
 
 /* visited link */
 .footer-style a:visited {
   text-decoration: none;
-  color: black; }
+  color: white; }
 
 /* mouse over link */
 .footer-style a:hover {
   text-decoration: none;
-  color: grey; }
+  color: #F47503; }
 
 /* selected link */
 .footer-style a:active {
   text-decoration: none;
-  color: black; }
+  color: white; }
 
 /* LAYOUT */
 .align-center {
@@ -116,11 +119,12 @@ a:active {
 
 .main-nav-style a {
   font-size: 1em;
-  color: black !important; }
+  color: white !important;
+  text-shadow: 3px 4px black; }
 
 .main-nav-style a:hover {
   font-size: .9em;
-  color: grey !important; }
+  color: #F47503 !important; }
 
 .share-content-nav {
   color: black;
@@ -132,7 +136,7 @@ a:active {
 .fixed-nav {
   position: fixed;
   float: left;
-  margin-top: 180px; }
+  margin-top: 150px; }
 
 .skill-style {
   font-family: sans-serif;
@@ -183,6 +187,19 @@ a:active {
 
 .main-subpage-text {
   font-size: 4em; }
+
+#links-designs {
+  margin-top: 20px;
+  margin-left: 0px;
+  padding-left: 25px;
+  padding-top: 3px;
+  width: 100%; }
+
+.no-border {
+  border: none !important; }
+
+.move {
+  margin-left: 21px; }
 
 /* Mobile nav styles */
 .mobile-nav {
