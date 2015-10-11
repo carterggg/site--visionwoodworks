@@ -916,7 +916,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 589136,
+		"initialSize": 1.12818e+06,
 		"inputAbbreviatedPath": "\/images\/layout\/background copy.jpg",
 		"outputAbbreviatedPath": "\/images\/layout\/background copy.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -929,7 +929,7 @@
 		"ignoreWasSetByUser": 0,
 		"initialSize": 589136,
 		"inputAbbreviatedPath": "\/images\/layout\/background.jpg",
-		"outputAbbreviatedPath": "\/images\/layout\/background.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/background4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1007,6 +1007,17 @@
 		"initialSize": 5.94787e+06,
 		"inputAbbreviatedPath": "\/images\/layout\/hardscape.jpg",
 		"outputAbbreviatedPath": "\/images\/layout\/hardscape.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/hireus copy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84039,
+		"inputAbbreviatedPath": "\/images\/layout\/hireus copy.png",
+		"outputAbbreviatedPath": "\/images\/layout\/hireus copy.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -10,14 +10,22 @@ h1, li, a, h1 a {
   color: white;
   text-shadow: 3px 4px black; }
 
-h2 {
+h2, h2 a {
   font-family: "blue_highwaylinocut" !important;
-  color: black;
-  font-size: 1.8em; }
+  color: white !important;
+  text-shadow: 1px 2px black;
+  font-size: 1.4em !important; }
+
+h2 a:hover {
+  font-family: "blue_highwaylinocut" !important;
+  color: #F47503 !important;
+  text-shadow: 1px 2px black;
+  font-size: 1.4em !important; }
 
 h3 {
   font-family: "blue_highwaylinocut";
-  color: black; }
+  color: white;
+  text-shadow: 2px 3px black; }
 
 h6 a {
   color: black !important;
@@ -200,6 +208,20 @@ a:active {
 
 .move {
   margin-left: 21px; }
+
+.review-box {
+  background-color: white;
+  box-shadow: 4px 5px black;
+  padding-top: 1px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 15px; }
+
+.black-text {
+  color: black !important;
+  text-shadow: none;
+  font-family: monospace;
+  font-size: 1.3em; }
 
 /* Mobile nav styles */
 .mobile-nav {

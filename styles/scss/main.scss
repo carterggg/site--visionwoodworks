@@ -20,15 +20,24 @@ h1, li, a, h1 a {
 	text-shadow: 3px 4px black;
 }
 
-h2 {
+h2, h2 a {
 	font-family: $main-font !important;
-	color: $main-color;
-	font-size: 1.8em;
+	color: white !important;
+	text-shadow: 1px 2px black;
+	font-size: 1.4em !important;
+}
+
+h2 a:hover {
+	font-family: $main-font !important;
+	color: #F47503 !important;
+	text-shadow: 1px 2px black;
+	font-size: 1.4em !important;
 }
 
 h3 {
 	font-family: $main-font;
-	color: $main-color;
+	color: white;
+	text-shadow: 2px 3px black;
 }
 
 h6 a {
@@ -267,6 +276,22 @@ a:active {
 
 .move {
 	margin-left: 21px;
+}
+
+.review-box {
+	background-color: white;
+	box-shadow: 4px 5px black;
+	padding-top:1px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 15px;
+}
+
+.black-text {
+	color: black !important;
+	text-shadow: none;
+	font-family:monospace;
+	font-size: 1.3em;
 }
 
 
