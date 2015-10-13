@@ -1,10 +1,10 @@
 <?php
 	
 	// * IMPORTANT * Set your email information here
-	define('DESTINATION_EMAIL','carterthedesigner@gmail.com');
-	define('MESSAGE_SUBJECT','Graphic and Web Design');
-	define('REPLY_TO', 'carterthedesigner@gmail.com');
-	define('FROM_ADDRESS', 'carterthedesigner@gmail.com');
+	define('DESTINATION_EMAIL','visionwoodworksllc@gmail.com');
+	define('MESSAGE_SUBJECT','Vision Woodworks Website Email');
+	define('REPLY_TO', 'visionwoodworksllc@gmail.com');
+	define('FROM_ADDRESS', 'visionwoodworksllc@gmail.com');
 	define('REDIRECT_URL', 'index.html');
 	
 	require_once('validation.php');
@@ -190,14 +190,11 @@
     						<a href="images/fences/fence6.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence6.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
     						
-    						<a href="images/fences/fence7.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence7.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
+
     						
     						<a href="images/fences/fence8.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence8.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
-    						
-							<a href="images/fences/fence9.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence9.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
+
     						
     						<a href="images/fences/fence10.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence10.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
@@ -208,8 +205,7 @@
     						<a href="images/fences/fence12.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence12.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
     						
-    						<a href="images/fences/fence13.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence13.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
+    						
     						
     						<a href="images/fences/fence14.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence14.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
@@ -231,8 +227,7 @@
     						<a href="images/fences/fence20.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence20.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
     						
-    						<a href="images/fences/fence21.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence21.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
+
     						
     						<a href="images/fences/fence22.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence22.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
@@ -243,8 +238,7 @@
     						<a href="images/fences/fence24.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence24.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
     						
-    						<a href="images/fences/fence25.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence25.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
+    						
     						
     						<a href="images/fences/fence26.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence26.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
@@ -320,6 +314,14 @@
     						
     						<a href="images/fences/fence50.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence50.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
+    							
+    						<a href="images/fences/fence51.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence51.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>	
+    						
+    						<a href="images/fences/fence52.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence52.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						<a href="images/fences/fence53.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence53.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>				
 
     							
 	

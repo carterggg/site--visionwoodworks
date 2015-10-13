@@ -1,10 +1,10 @@
 <?php
 	
 	// * IMPORTANT * Set your email information here
-	define('DESTINATION_EMAIL','carterthedesigner@gmail.com');
-	define('MESSAGE_SUBJECT','Graphic and Web Design');
-	define('REPLY_TO', 'carterthedesigner@gmail.com');
-	define('FROM_ADDRESS', 'carterthedesigner@gmail.com');
+	define('DESTINATION_EMAIL','visionwoodworksllc@gmail.com');
+	define('MESSAGE_SUBJECT','Vision Woodworks Website Email');
+	define('REPLY_TO', 'visionwoodworksllc@gmail.com');
+	define('FROM_ADDRESS', 'visionwoodworksllc@gmail.com');
 	define('REDIRECT_URL', 'index.html');
 	
 	require_once('validation.php');
@@ -131,18 +131,18 @@
 			
 				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 					<a href="aboutme.html" alt="Vision Woodworks: About"><img src="images/layout/about.jpg" onmouseover="this.src='images/layout/about.jpg'" onmouseout="this.src='images/layout/about.jpg'"  title="Vision Woodworks: About" class="img-responsive align-center"></a>
-				<h1 class="align-center footer-style"><a href="about.html" title="Vision Woodworks: About">ABOUT</a></h1>
+				<h1 class="align-center footer-style"><a href="about.php" title="Vision Woodworks: About">ABOUT</a></h1>
 					
 				</div>
 				
 				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 					<a href="decks.html" alt="Vision Woodworks: Decks"><img src="images/layout/decks.jpg" onmouseover="this.src='images/layout/decks.jpg'" onmouseout="this.src='images/layout/decks.jpg'"  title="Vision Woodworks: Decks" class="img-responsive align-center"></a>
-					<h1 class="align-center footer-style"><a href="decks.html" title="Vision Woodworks: Decks">DECK</a></h1>
+					<h1 class="align-center footer-style"><a href="decks.php" title="Vision Woodworks: Decks">DECK</a></h1>
 				</div>
 				
 				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 									<a href="fences.html" alt="Vision Woodworks: Fences"><img src="images/layout/fences.jpg" onmouseover="this.src='images/layout/fences.jpg'" onmouseout="this.src='images/layout/fences.jpg'"  title="Vision Woodworks: Fences" class="img-responsive align-center"></a>
-				<h1 class="align-center footer-style"><a href="fences.html" title="Vision Woodworks: Fences">FENCES</a></h1>
+				<h1 class="align-center footer-style"><a href="fences.php" title="Vision Woodworks: Fences">FENCES</a></h1>
 					
 				</div>
 				
@@ -153,15 +153,15 @@
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 					<a href="arbors.html" alt="Vision Woodworks: Arbors"><img src="images/layout/arbors.jpg" onmouseover="this.src='images/layout/arbors.jpg'" onmouseout="this.src='images/layout/arbors.jpg'"  title="Vision Woodworks: Arbors" class="img-responsive align-center"></a>
-					<h1 class="align-center footer-style"><a href="arbors.html" title="Vision Woodworks: Arbors">ARBORS</a></h1>
+					<h1 class="align-center footer-style"><a href="arbors.php" title="Vision Woodworks: Arbors">ARBORS</a></h1>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 					<a href="hardscape.html" alt="Vision Woodworks: Arbors"><img src="images/layout/hardscape.jpg" onmouseover="this.src='images/layout/hardscape.jpg'" onmouseout="this.src='images/layout/hardscape.jpg'"  title="Vision Woodworks: Arbors" class="img-responsive align-center"></a>
-					<h1 class="align-center footer-style"><a href="hardscape.html" title="Vision Woodworks: Arbors">HARDSCAPE</a></h1>					
+					<h1 class="align-center footer-style"><a href="hardscape.php" title="Vision Woodworks: Arbors">HARDSCAPE</a></h1>					
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 					<a href="interiorremodel.html" alt="Vision Woodworks: Interior Remodeling"><img src="images/layout/interiorremodel.jpg" onmouseover="this.src='images/layout/interiorremodel.jpg'" onmouseout="this.src='images/layout/interiorremodel.jpg'"  title="Vision Woodworks: Interior Remodeling" class="img-responsive align-center"></a>
-				<h1 class="align-center footer-style"><a href="interiorremodel.html" title="Vision Woodworks: Interior Remodeling">INTERIOR REMODEL</a></h1>
+				<h1 class="align-center footer-style"><a href="interiorremodel.php" title="Vision Woodworks: Interior Remodeling">INTERIOR REMODEL</a></h1>
 				</div>
 			</div>				
 					

@@ -5,6 +5,11 @@ body {
   background-repeat: none;
   background-size: contain; }
 
+.about-info p {
+  font-family: Sans-Serif;
+  color: black;
+  font-size: 1.4em !important; }
+
 h1, li, a, h1 a {
   font-family: "blue_highwaylinocut";
   color: white;

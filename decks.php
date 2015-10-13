@@ -1,10 +1,10 @@
 <?php
 	
 	// * IMPORTANT * Set your email information here
-	define('DESTINATION_EMAIL','carterthedesigner@gmail.com');
-	define('MESSAGE_SUBJECT','Graphic and Web Design');
-	define('REPLY_TO', 'carterthedesigner@gmail.com');
-	define('FROM_ADDRESS', 'carterthedesigner@gmail.com');
+	define('DESTINATION_EMAIL','visionwoodworksllc@gmail.com');
+	define('MESSAGE_SUBJECT','Vision Woodworks Website Email');
+	define('REPLY_TO', 'visionwoodworksllc@gmail.com');
+	define('FROM_ADDRESS', 'visionwoodworksllc@gmail.com');
 	define('REDIRECT_URL', 'index.html');
 	
 	require_once('validation.php');
@@ -177,8 +177,6 @@
     						<a href="images/decks/deck2.jpg" title="Vision Woodworks" data-gallery><img src="images/decks/deck2.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
    								
-   							<a href="images/decks/deck3.jpg" title="Vision Woodworks" data-gallery><img src="images/decks/deck3.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
     						
     						
    								
@@ -187,6 +185,21 @@
     								
     						<a href="images/decks/deck5.jpg" title="Vision Woodworks" data-gallery><img src="images/decks/deck5.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>	
+    						
+    						<a href="images/decks/fence21.jpg" title="Vision Woodworks" data-gallery><img src="images/decks/fence21.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/fences/fence13.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence13.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/fences/fence25.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence25.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/decks/deck6.jpg" title="Vision Woodworks" data-gallery><img src="images/decks/deck6.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/decks/deck7.jpg" title="Vision Woodworks" data-gallery><img src="images/decks/deck7.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
     							
 
    								

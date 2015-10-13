@@ -2,6 +2,15 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19051",
 "files": {
+	"\/about.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/arbors.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -248,6 +257,39 @@
 		"initialSize": 36507,
 		"inputAbbreviatedPath": "\/images\/decks\/deck5.jpg",
 		"outputAbbreviatedPath": "\/images\/decks\/deck5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/decks\/deck6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103979,
+		"inputAbbreviatedPath": "\/images\/decks\/deck6.jpg",
+		"outputAbbreviatedPath": "\/images\/decks\/deck6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/decks\/deck7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88026,
+		"inputAbbreviatedPath": "\/images\/decks\/deck7.jpg",
+		"outputAbbreviatedPath": "\/images\/decks\/deck7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/decks\/fence21.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36789,
+		"inputAbbreviatedPath": "\/images\/decks\/fence21.jpg",
+		"outputAbbreviatedPath": "\/images\/decks\/fence21.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -758,6 +800,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/fences\/fence51.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95593,
+		"inputAbbreviatedPath": "\/images\/fences\/fence51.jpg",
+		"outputAbbreviatedPath": "\/images\/fences\/fence51.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/fences\/fence52.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18655,
+		"inputAbbreviatedPath": "\/images\/fences\/fence52.jpg",
+		"outputAbbreviatedPath": "\/images\/fences\/fence52.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/fences\/fence53.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 218765,
+		"inputAbbreviatedPath": "\/images\/fences\/fence53.jpg",
+		"outputAbbreviatedPath": "\/images\/fences\/fence53.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/fences\/fence6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -798,6 +873,17 @@
 		"initialSize": 44034,
 		"inputAbbreviatedPath": "\/images\/fences\/fence9.jpg",
 		"outputAbbreviatedPath": "\/images\/fences\/fence9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/hardscape\/deck3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28188,
+		"inputAbbreviatedPath": "\/images\/hardscape\/deck3.jpg",
+		"outputAbbreviatedPath": "\/images\/hardscape\/deck3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -886,6 +972,17 @@
 		"initialSize": 614879,
 		"inputAbbreviatedPath": "\/images\/hardscape\/hardscape8.png",
 		"outputAbbreviatedPath": "\/images\/hardscape\/hardscape8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/hardscape\/hardscape9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 143895,
+		"inputAbbreviatedPath": "\/images\/hardscape\/hardscape9.jpg",
+		"outputAbbreviatedPath": "\/images\/hardscape\/hardscape9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1253,6 +1350,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/remodel\/remodel18.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39160,
+		"inputAbbreviatedPath": "\/images\/remodel\/remodel18.jpg",
+		"outputAbbreviatedPath": "\/images\/remodel\/remodel18.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/remodel\/remodel19.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90748,
+		"inputAbbreviatedPath": "\/images\/remodel\/remodel19.jpg",
+		"outputAbbreviatedPath": "\/images\/remodel\/remodel19.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/remodel\/remodel2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1260,6 +1379,17 @@
 		"initialSize": 14811,
 		"inputAbbreviatedPath": "\/images\/remodel\/remodel2.jpg",
 		"outputAbbreviatedPath": "\/images\/remodel\/remodel2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/remodel\/remodel20.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97145,
+		"inputAbbreviatedPath": "\/images\/remodel\/remodel20.jpg",
+		"outputAbbreviatedPath": "\/images\/remodel\/remodel20.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

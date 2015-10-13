@@ -85,12 +85,10 @@ if(@$_POST['submitted'])
 			echo '<link rel="stylesheet" href="stylesheet.css">';
 			echo '<div class="val-background align-center">';
 			echo "<br>";
-			echo '<img src="images/layout/bw-header-cg.gif" class="align-center">';
 			echo "<br>";
 			echo "<br>";
-			echo "<h2 class='val-style white-text'>Thank You, Carter Guthrie will get back to you soon.</h2>";
-			echo "<p>Your message has been sent! Below is the information you provided:</p>";
-			echo "<a href=\"".REDIRECT_URL ."\">Back to Carterguthrie.com</a>";
+			echo "<h2 class='val-style white-text'>Thank You, Vision Woodworks will get back to you soon.</h2>";
+			echo "<a href=\"".REDIRECT_URL ."\">Back to Vision Woodworks</a>";
 		    echo "<br>";
 			echo "<br>";
 			echo '</div>';

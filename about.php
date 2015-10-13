@@ -21,7 +21,7 @@
 <meta name="keywords" content=""/>
 <meta name="author" content="Carter Guthrie carterguthrie.com">
 
-<title>Vision Woodworks | Interior Remodel</title>
+<title>Vision Woodworks | About</title>
 <link rel="stylesheet" href="styles/css/bootstrap.min.css">
 <link rel="stylesheet" href="styles/css/bootstrap-theme.min.css">
 <link rel="stylesheet" href="main.css">
@@ -151,7 +151,7 @@
 
 				</ul>
 						  		
-					<a href="https://www.facebook.com/Vision-Wood-Works-264967386890020/timeline/" title="Facebook Vision Woodworks" target="_blank"><img src="images/layout/fb2.png" onmouseover="this.src='images/layout/fb.png'" onmouseout="this.src='images/layout/fb2.png'" alt="Facebook Vision Woodworks" width="40px" class="img-responsive align-center floated-left move"></a>
+					<a href="https://www.facebook.com/carterthedesigner" title="carter guthrie facebook" target="_blank"><img src="images/layout/fb2.png" onmouseover="this.src='images/layout/fb.png'" onmouseout="this.src='images/layout/fb2.png'" alt="Facebook: Carter Guthrie" width="40px" class="img-responsive align-center floated-left move"></a>
 			</nav>
 		<br><br><br>
 		</div>
@@ -164,85 +164,30 @@
 					  <br>
 				<a href="index.php" title="Vision Woodworks"><img src="images/layout/logo.jpg" alt="Vision Woodworks" class="img-responsive align-center" width="400px"></a>
 				<br class="hidden-xs"><br class="hidden-sm hidden-md hidden-lg"><br>
-				<h1 class="align-center">INTERIOR REMODEL WORK</h1>
+				<h1 class="align-center">ABOUT VISION WOODWORKS</h1>
+					<br>
 			
 	<!-- Gallery -->			
 				<div class="row">
-					<div class="col-xs-12">
-						<div id="links-designs">
+					<div class="col-xs-12 review-box">
+					 <br><br>
 						
-							<a href="images/remodel/remodel18.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel18.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-						
-							<a href="images/remodel/remodel1.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel1.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						
-    						
-    						<a href="images/remodel/remodel9.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel9.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/remodel/remodel3.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel3.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/remodel/remodel4.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel4.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/remodel/remodel5.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel5.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/remodel/remodel6.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel6.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/remodel/remodel7.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel7.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/remodel/remodel8.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel8.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						
-    						
-    						<a href="images/remodel/remodel10.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel10.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						
-    						
-    						<a href="images/remodel/remodel16.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel16.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/remodel/remodel12.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel12.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/remodel/remodel13.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel13.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/remodel/remodel14.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel14.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/remodel/remodel15.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel15.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						
-    						
-    						<a href="images/remodel/remodel17.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel17.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/remodel/remodel2.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel2.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/remodel/remodel11.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel11.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-	
-    						<a href="images/remodel/remodel19.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel19.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>	
-   							
-   							<a href="images/remodel/remodel20.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel20.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>		
-
-   								
-
-    
-						</div><!--END OF Links -->
+						<div class="row">
+							<div class="col-xs-12 col-sm-6">
+								<img src="images/layout/about.jpg" alt="Vision Woodworks" class="img-responsive align-center">
+							</div>
+							<div class="col-xs-12 col-sm-6 about-info">
+								<p><strong>Welcome to Vision WoodWorks!</strong> We are a locally family-owned and operated business here in the Charlotte area. For nearly 15 years, Vision WoodWorks has been turning visions into a reality for thousands of homes, families and businesses across the area.</p>
+								
+								<p>Incorporated in 2002, we too started with a vision that became something we are incredibly proud of today, but not without a lot of hard work, many prayers, and steadfast determination. Along with our Heavenly Father, my wife a three beautiful children are my priority, with my passion for building, designing and architecture a close second. Starting from the ground-up, we never lost sight of our vision and as we continued to grow, we were blessed beyond measure with the support of family and friends, industry professionals, and customers like you along the way.</p> 
+							</div>
+						</div>
+								<br>
+						 <div class="about-info">
+						<p>God has blessed me with a company where I can design and build with integrity and dedication, and create a finished product that leaves my clients far more than just satisfied. <strong>Vision WoodWorks</strong> is a full-service construction company focused on building quality and maintaining a high level of customer satisfaction. The success of Vision WoodWorks has been built with dedicated personnel, quality products and expert installations. We strive to be the best and most respected contractor you’ll ever work with by providing the highest quality engineering, designs and installations at competitive, cost-effective prices. 
+				<p class="align-center">Our goal is to turn each customer's vision into reality.<br> Give us a call today for a free, no-obligation estimate. We guarantee you’ll be glad you did!</p>
+						</div>
+							<br>
 					</div>
 				</div>
 			

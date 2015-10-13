@@ -1,10 +1,10 @@
 <?php
 	
 	// * IMPORTANT * Set your email information here
-	define('DESTINATION_EMAIL','carterthedesigner@gmail.com');
-	define('MESSAGE_SUBJECT','Graphic and Web Design');
-	define('REPLY_TO', 'carterthedesigner@gmail.com');
-	define('FROM_ADDRESS', 'carterthedesigner@gmail.com');
+	define('DESTINATION_EMAIL','visionwoodworksllc@gmail.com');
+	define('MESSAGE_SUBJECT','Vision Woodworks Website Email');
+	define('REPLY_TO', 'visionwoodworksllc@gmail.com');
+	define('FROM_ADDRESS', 'visionwoodworksllc@gmail.com');
 	define('REDIRECT_URL', 'index.html');
 	
 	require_once('validation.php');
@@ -195,6 +195,12 @@
     						</a>
     						
     						<a href="images/hardscape/hardscape1.jpg" title="Vision Woodworks" data-gallery><img src="images/hardscape/hardscape1.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/hardscape/deck3.jpg" title="Vision Woodworks" data-gallery><img src="images/hardscape/deck3.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
+    						
+    						<a href="images/hardscape/hardscape9.jpg" title="Vision Woodworks" data-gallery><img src="images/hardscape/hardscape9.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
 	
     							

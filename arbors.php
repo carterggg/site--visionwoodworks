@@ -1,10 +1,10 @@
 <?php
 	
 	// * IMPORTANT * Set your email information here
-	define('DESTINATION_EMAIL','carterthedesigner@gmail.com');
-	define('MESSAGE_SUBJECT','Graphic and Web Design');
-	define('REPLY_TO', 'carterthedesigner@gmail.com');
-	define('FROM_ADDRESS', 'carterthedesigner@gmail.com');
+	define('DESTINATION_EMAIL','visionwoodworksllc@gmail.com');
+	define('MESSAGE_SUBJECT','Vision Woodworks Website Email');
+	define('REPLY_TO', 'visionwoodworksllc@gmail.com');
+	define('FROM_ADDRESS', 'visionwoodworksllc@gmail.com');
 	define('REDIRECT_URL', 'index.html');
 	
 	require_once('validation.php');
@@ -82,24 +82,24 @@
   	  	
    				<nav class="mobile-nav toggle-info">
    					<ul> <br><br><br>
-   						<li class="main-nav-style mobile-main-nav"><a href="index.html" title="carterguthrie.com home">HOME</a></li>
+   						<li class="main-nav-style mobile-main-nav"><a href="index.php" title="carterguthrie.com home">HOME</a></li>
 					<br>
 					
-					<li class="main-nav-style mobile-main-nav"><a href="about.html" title="carterguthrie.com graphic design">ABOUT</a></li> 
+					<li class="main-nav-style mobile-main-nav"><a href="about.php" title="carterguthrie.com graphic design">ABOUT</a></li> 
 									<br>
-					<li class="main-nav-style mobile-main-nav"><a href="decks.html" title="carterguthrie.com web design">DECKS</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="decks.php" title="carterguthrie.com web design">DECKS</a></li>
 					
 					<br>
-					<li class="main-nav-style mobile-main-nav"><a href="fences.html" title="carterguthrie.com photo and video">FENCES</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="fences.php" title="carterguthrie.com photo and video">FENCES</a></li>
 					
 					<br>
-					<li class="main-nav-style mobile-main-nav"><a href="arbors.html" title="carterguthrie.com boltz on board">ARBORS</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="arbors.php" title="carterguthrie.com boltz on board">ARBORS</a></li>
 					
 					<br>
-					<li class="main-nav-style mobile-main-nav"><a href="hardscape.html" title="carterguthrie.com imminent radio">HARDSCAPE</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="hardscape.php" title="carterguthrie.com imminent radio">HARDSCAPE</a></li>
 					
 					<br>
-					<li class="main-nav-style mobile-main-nav"><a href="interiorremodel.html" title="carterguthrie.com etc designs">INTERIOR REMODEL</a></li>
+					<li class="main-nav-style mobile-main-nav"><a href="interiorremodel.php" title="carterguthrie.com etc designs">INTERIOR REMODEL</a></li>
 					
 					<br><br>
 					<li class="main-nav-style mobile-main-nav"><a href="contact.php" title="carterguthrie.com about">CONTACT</a></li>
@@ -112,7 +112,7 @@
 	
 
 
-	<div class="row">
+	<div class="row hidden-xs">
 		<div class="col-xs-12 col-sm-2">
 		  <br>	
 			<a href="https://www.thumbtack.com/nc/matthews/yard-fencing-companies/" id="thumbtack-medallion" target="_blank"><img src="https://static.thumbtack.com/media/widgets/featured-pro.png" alt="Thumbtack Best Pro of 2015" class="no-border"></a><script src="https://static.thumbtack.com/media/widgets/medallion-links.js"></script>
@@ -122,6 +122,7 @@
 		
 		<div class="col-xs-12 col-sm-2">
 			<h2><a href="contact.php" title="Get A Quote">GET A QUOTE</a></h2>
+			<img src="images/layout/hammertime.gif" alt="Get A Quote" class="img-responsive no-border align-center" width="100px">
 		</div>
 	</div>		
 
@@ -134,16 +135,16 @@
 		
 			<nav class="fixed-nav">
 				<ul>
-					<li class="main-nav-style"><a href="about.html" title="carterguthrie.com home">ABOUT</a></li>
+					<li class="main-nav-style"><a href="about.php" title="carterguthrie.com home">ABOUT</a></li>
 					<br>
-					<li class="main-nav-style"><a href="decks.html" title="carterguthrie.com graphic design">DECKS</a></li> 				<br>
-					<li class="main-nav-style"><a href="fences.html" title="carterguthrie.com web design">FENCES</a></li>
+					<li class="main-nav-style"><a href="decks.php" title="carterguthrie.com graphic design">DECKS</a></li> 				<br>
+					<li class="main-nav-style"><a href="fences.php" title="carterguthrie.com web design">FENCES</a></li>
 					<br>
-					<li class="main-nav-style"><a href="arbors.html" title="carterguthrie.com photo and video">ARBORS</a></li>
+					<li class="main-nav-style"><a href="arbors.php" title="carterguthrie.com photo and video">ARBORS</a></li>
 					<br>
-					<li class="main-nav-style"><a href="hardscape.html" title="carterguthrie.com boltz on board">HARDSCAPE</a></li>
+					<li class="main-nav-style"><a href="hardscape.php" title="carterguthrie.com boltz on board">HARDSCAPE</a></li>
 					<br>
-					<li class="main-nav-style"><a href="interiorremodel.html" title="carterguthrie.com imminent radio">INTERIOR<br>&nbsp;&nbsp;REMODEL</a></li>
+					<li class="main-nav-style"><a href="interiorremodel.php" title="carterguthrie.com imminent radio">INTERIOR<br>&nbsp;&nbsp;REMODEL</a></li>
 					<br>
 					<li class="main-nav-style"><a href="contact.php" title="carterguthrie.com boltz on board">CONTACT</a></li>
 					
@@ -161,7 +162,7 @@
 		<div class="col-xs-12 col-sm-12 col-md-9">
 			<!-- Header -->
 					  <br>
-				<a href="index.html" title="Vision Woodworks"><img src="images/layout/logo.jpg" alt="Vision Woodworks" class="img-responsive align-center" width="400px"></a>
+				<a href="index.php" title="Vision Woodworks"><img src="images/layout/logo.jpg" alt="Vision Woodworks" class="img-responsive align-center" width="400px"></a>
 				<br class="hidden-xs"><br class="hidden-sm hidden-md hidden-lg"><br>
 				<h1 class="align-center">ARBORS, TRELLIS, PERGOLAS WORK</h1>
 			
@@ -174,11 +175,7 @@
     						</a>
     						<a href="images/arbors/arbors2.jpg" title="Vision Woodworks" data-gallery><img src="images/arbors/arbors2.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
-    						<a href="images/arbors/arbors3.jpg" title="Vision Woodworks" data-gallery><img src="images/arbors/arbors3.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
     						<a href="images/arbors/arbors4.jpg" title="Vision Woodworks" data-gallery><img src="images/arbors/arbors4.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						<a href="images/arbors/arbors5.jpg" title="Vision Woodworks" data-gallery><img src="images/arbors/arbors5.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
     						<a href="images/arbors/arbors6.jpg" title="Vision Woodworks" data-gallery><img src="images/arbors/arbors6.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
@@ -207,6 +204,7 @@
 					<?php include('inc/form.php'); ?>
 				</div>
 				<div class="col-xs-12 col-sm-6">
+						<br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs">
 					<img src="images/layout/hireus.png" class="img-responsive align-center no-border">			
 				</div>
 				
