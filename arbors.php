@@ -179,6 +179,8 @@
     						</a>
     						<a href="images/arbors/arbors6.jpg" title="Vision Woodworks" data-gallery><img src="images/arbors/arbors6.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
+    						<a href="images/arbors/arbors7.jpg" title="Vision Woodworks" data-gallery><img src="images/arbors/arbors7.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
 	
     							
 

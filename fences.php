@@ -305,15 +305,7 @@
     						
     						<a href="images/fences/fence47.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence47.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
-    						
-    						<a href="images/fences/fence48.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence48.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/fences/fence49.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence49.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
-    						
-    						<a href="images/fences/fence50.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence50.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>
+
     							
     						<a href="images/fences/fence51.jpg" title="Vision Woodworks" data-gallery><img src="images/fences/fence51.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>	

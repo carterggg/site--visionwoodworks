@@ -200,6 +200,9 @@
     						
     						<a href="images/decks/deck7.jpg" title="Vision Woodworks" data-gallery><img src="images/decks/deck7.jpg" width="325" alt="Vision Woodworks" class="no-border">
     						</a>
+    						
+    						<a href="images/decks/deck8.jpg" title="Vision Woodworks" data-gallery><img src="images/decks/deck8.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>
     							
 
    								

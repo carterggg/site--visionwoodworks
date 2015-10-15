@@ -237,7 +237,10 @@
     						</a>	
    							
    							<a href="images/remodel/remodel20.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel20.jpg" width="325" alt="Vision Woodworks" class="no-border">
-    						</a>		
+    						</a>	
+   								
+   							<a href="images/remodel/remodel21.jpg" title="Vision Woodworks" data-gallery><img src="images/remodel/remodel21.jpg" width="325" alt="Vision Woodworks" class="no-border">
+    						</a>			
 
    								
 
